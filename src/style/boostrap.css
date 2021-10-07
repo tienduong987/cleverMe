@@ -1,0 +1,10 @@
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: unset;
+}
+li.nav-item {
+    padding: 0px 15px !important;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    line-height: 100px !important;
+}
